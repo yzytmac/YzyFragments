@@ -98,13 +98,13 @@ public class MainActivity extends AppCompatActivity implements RadioGroup.OnChec
             @Override
             public String function() {
                 //接口中的方法回调
-                return "I Love U";
+                return "I Love 汪源琦";
             }
         }).addFunction(new FunctionWithParamAndResult<String,String>(Fragment3.INTERFACE_PARAM_RESULT) {
             @Override
             public String function(String pram) {
                 //接口中的方法回调
-                return pram;
+                return pram+"I Love 汪源琦";
             }
         }).addFunction(new FunctionWithParamOnly<String>(Fragment4.INTERFACE_PARAM) {
 
