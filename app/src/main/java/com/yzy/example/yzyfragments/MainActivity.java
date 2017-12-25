@@ -1,20 +1,20 @@
-package com.lonly.example.fragnmentinterfacedemo;
+package com.yzy.example.yzyfragments;
 
+import android.os.Bundle;
 import android.support.annotation.IdRes;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
-import com.lonly.example.fragnmentinterfacedemo.adapter.MyPagerAdapter;
-import com.lonly.example.fragnmentinterfacedemo.function.FunctionManager;
-import com.lonly.example.fragnmentinterfacedemo.function.FunctionNoParamNoResault;
-import com.lonly.example.fragnmentinterfacedemo.function.FunctionWithParamAndResult;
-import com.lonly.example.fragnmentinterfacedemo.function.FunctionWithParamOnly;
-import com.lonly.example.fragnmentinterfacedemo.function.FunctionWithResultOnly;
+import com.yzy.example.yzyfragments.adapter.MyPagerAdapter;
+import com.yzy.example.yzyfragments.function.FunctionManager;
+import com.yzy.example.yzyfragments.function.FunctionNoParamNoResault;
+import com.yzy.example.yzyfragments.function.FunctionWithParamAndResult;
+import com.yzy.example.yzyfragments.function.FunctionWithParamOnly;
+import com.yzy.example.yzyfragments.function.FunctionWithResultOnly;
 
 import java.util.ArrayList;
 import java.util.List;

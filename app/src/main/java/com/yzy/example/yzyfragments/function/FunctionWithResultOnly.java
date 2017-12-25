@@ -1,4 +1,4 @@
-package com.lonly.example.fragnmentinterfacedemo.function;
+package com.yzy.example.yzyfragments.function;
 
 /**
  * Created by lonly on 2017/10/16.

@@ -1,10 +1,10 @@
-package com.lonly.example.fragnmentinterfacedemo;
+package com.yzy.example.yzyfragments;
 
-import android.app.Activity;
 import android.content.Context;
 import android.support.v4.app.Fragment;
 
-import com.lonly.example.fragnmentinterfacedemo.function.FunctionManager;
+import com.yzy.example.yzyfragments.function.FunctionManager;
+
 
 /**
  * Created by lonly on 2017/10/16.

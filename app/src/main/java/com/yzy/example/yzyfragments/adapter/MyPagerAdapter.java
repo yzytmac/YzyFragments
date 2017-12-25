@@ -1,4 +1,4 @@
-package com.lonly.example.fragnmentinterfacedemo.adapter;
+package com.yzy.example.yzyfragments.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

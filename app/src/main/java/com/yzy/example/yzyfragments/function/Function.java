@@ -1,4 +1,4 @@
-package com.lonly.example.fragnmentinterfacedemo.function;
+package com.yzy.example.yzyfragments.function;
 
 /**
  * 接口抽象类

@@ -1,6 +1,5 @@
-package com.lonly.example.fragnmentinterfacedemo.function;
+package com.yzy.example.yzyfragments.function;
 
-import android.content.Intent;
 import android.text.TextUtils;
 
 import java.util.HashMap;
