@@ -19,6 +19,9 @@ import com.yzy.example.yzyfragments.function.FunctionWithResultOnly;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by yzy on 2017/12/22.
+ */
 public class MainActivity extends AppCompatActivity implements RadioGroup.OnCheckedChangeListener{
 
     private ViewPager viewpager;

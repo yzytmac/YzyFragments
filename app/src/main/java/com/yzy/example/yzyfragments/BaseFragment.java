@@ -7,7 +7,7 @@ import com.yzy.example.yzyfragments.function.FunctionManager;
 
 
 /**
- * Created by lonly on 2017/10/16.
+ * Created by yzy on 2017/12/22.
  */
 
 public class BaseFragment extends Fragment{
