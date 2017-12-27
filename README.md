@@ -1,5 +1,5 @@
 # YzyFragnments
-Fragment之间通讯的万能接口框架
+接口再抽象-打造万能Fragment通讯框架
 
 此项目实现了多个Fragment之间的数据传输通讯，以宿主Activty作为通讯桥梁，通过一个Fragment的基类BaseFragment与宿主Activity进行接口绑定，在宿主Activty中调用setFuctionsForFragment()实现接口方法。
 
