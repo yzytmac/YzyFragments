@@ -44,22 +44,6 @@ public class MainActivity extends AppCompatActivity implements RadioGroup.OnChec
         viewpager.setAdapter(adapter);
         viewpager.setCurrentItem(0,false);
         viewpager.setOffscreenPageLimit(4);
-        viewpager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
-            @Override
-            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
-
-            }
-
-            @Override
-            public void onPageSelected(int position) {
-
-            }
-
-            @Override
-            public void onPageScrollStateChanged(int state) {
-
-            }
-        });
     }
 
     @Override
