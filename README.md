@@ -1,6 +1,7 @@
 # YzyFragnments
 接口再抽象-打造万能Fragment通讯框架
-
+- 如果觉得有用，不吝啬在右上角给我一个Star。谢谢！！  
+![](https://raw.githubusercontent.com/yzytmac/yzytmac.github.io/master/images/star.png)  
 此项目实现了多个Fragment之间的数据传输通讯，以宿主Activty作为通讯桥梁，通过一个Fragment的基类BaseFragment与宿主Activity进行接口绑定，在宿主Activty中调用setFuctionsForFragment()实现接口方法。
 
 BaseFragment与宿主Activity进行接口绑定：
